@@ -1,6 +1,3 @@
-return {
-
-
 
 ["TESTING_ONLINE_CODES_STORE"] = function(Player)
 		Player:FindFirstChild("Data").Coins.Value += 150
@@ -8,7 +5,3 @@ return {
 		wait(7)
 		GunWrap(Player)
 	end;
-
-
-
-}
