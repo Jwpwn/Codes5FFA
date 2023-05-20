@@ -1,7 +1,1 @@
-
-["TESTING_ONLINE_CODES_STORE"] = function(Player)
-		Player:FindFirstChild("Data").Coins.Value += 150
-		CallingEffect(Player)
-		wait(7)
-		GunWrap(Player)
-	end;
+{"TEST":{"Rewards":["STOMP_FX_CRATE"],"BLOOD_FX_CRATE","BLOOD_FX_CRATE","STOMP_FX_CRATE"],"Time":["May 25, 2023"]}}
